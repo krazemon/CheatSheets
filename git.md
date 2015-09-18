@@ -121,6 +121,11 @@ git checkout origin/featureBranch web/js/random.js
 # origin/featureBranch
 ```
 
+## Only show a certain number of commits in git log
+```bash
+git log -<NUMBER OF LINES TO SHOW>
+```
+
 ## Git Grepping for fun and profit!
 
 ```shell
